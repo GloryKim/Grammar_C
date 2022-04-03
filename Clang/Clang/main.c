@@ -1,14 +1,9 @@
-//
-//  main.c
-//  Clang
-//
-//  Created by 김영광 on 2022/04/01.
-//
-
 #include <stdio.h>
 
-int main() {
-    // insert code here...
-    printf("Hello, World2\n");
+int main(void) {
+    int A, B;
+    scanf("%d", &A);
+    scanf("%d", &B);
+    printf("%d", A + B);
     return 0;
 }
