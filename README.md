@@ -1,2 +1,1 @@
-# Clang
-C 언어 수련관
+# Grammar_C
